@@ -1,0 +1,119 @@
+2023-08-20 19:32:30,731 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:32:30,737 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:32:30,740 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:32:30,741 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:33:14,230 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:33:25,037 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:33:25,041 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:33:25,044 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:33:25,044 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:33:25,695 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:33:30,724 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:33:30,959 [ERROR] com.step_defintions.TestLoginSteps [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"tag name","selector":"h1"}
+  (Session info: chrome=115.0.5790.173)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d5f8936dd8dc228c525b165ded18fd4c, findElement {using=tag name, value=h1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.173, chrome: {chromedriverVersion: 115.0.5790.170 (cc0d30c2ca5..., userDataDir: C:\Users\Aswin Prabu\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:63970}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63970/devtoo..., se:cdpVersion: 115.0.5790.173, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f8936dd8dc228c525b165ded18fd4c
+2023-08-20 19:35:38,557 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:35:38,589 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:35:38,598 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:35:38,598 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:35:39,561 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:35:45,021 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:35:45,266 [ERROR] com.step_defintions.TestLoginSteps [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"tag name","selector":"h1"}
+  (Session info: chrome=115.0.5790.173)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42a534874654e94308e2682c32979ca1, findElement {using=tag name, value=h1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.173, chrome: {chromedriverVersion: 115.0.5790.170 (cc0d30c2ca5..., userDataDir: C:\Users\Aswin Prabu\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:64000}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64000/devtoo..., se:cdpVersion: 115.0.5790.173, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42a534874654e94308e2682c32979ca1
+2023-08-20 19:36:19,758 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:36:19,762 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:36:19,765 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:36:19,765 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:36:20,463 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:36:27,099 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:37:34,759 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:37:34,764 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:37:34,769 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:37:34,771 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:37:35,733 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:37:45,212 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:39:16,813 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:39:16,819 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:39:16,821 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:39:16,822 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:39:17,525 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:39:24,196 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:41:11,834 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:41:11,837 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:41:11,840 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:41:11,840 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:41:12,524 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:41:19,124 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:43:10,921 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:43:10,925 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:43:10,929 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:43:10,929 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:43:11,800 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:43:19,083 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:45:00,195 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:45:00,201 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:45:00,206 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:45:00,207 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:45:00,927 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:45:07,684 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:54:19,196 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:54:19,200 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:54:19,203 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:54:19,203 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:54:19,931 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:54:28,288 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:55:45,295 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:55:45,299 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:55:45,304 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:55:45,305 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:55:46,034 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:55:52,727 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 19:58:23,755 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 19:58:23,759 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 19:58:23,763 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 19:58:23,763 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 19:58:24,563 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 19:58:31,974 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 20:08:31,445 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 20:08:31,448 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 20:08:31,450 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 20:08:31,451 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 20:08:32,122 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 20:08:38,063 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 20:08:38,326 [ERROR] com.step_defintions.TestLoginSteps [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"tag name","selector":"h1"}
+  (Session info: chrome=115.0.5790.173)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8b9b6c8f1de2874a033b2283fc0b5a8, findElement {using=tag name, value=h1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.173, chrome: {chromedriverVersion: 115.0.5790.170 (cc0d30c2ca5..., userDataDir: C:\Users\Aswin Prabu\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:64528}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64528/devtoo..., se:cdpVersion: 115.0.5790.173, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8b9b6c8f1de2874a033b2283fc0b5a8
+2023-08-20 20:21:55,338 [INFO ] com.step_defintions.Common_Step_Defintions [main] Execution Started
+2023-08-20 20:21:55,341 [INFO ] com.step_defintions.Common_Step_Defintions [main] Loading the Properties File
+2023-08-20 20:21:55,343 [INFO ] com.step_defintions.Common_Step_Defintions [main] Checking the driver is null or not
+2023-08-20 20:21:55,344 [INFO ] com.step_defintions.Common_Step_Defintions [main] Driver is NULL. Instantiating It
+2023-08-20 20:21:55,950 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2023-08-20 20:22:01,934 [INFO ] com.step_defintions.TestLoginSteps [main] Username, Password entered successfully
+2023-08-20 20:22:02,236 [ERROR] com.step_defintions.TestLoginSteps [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"tag name","selector":"h1"}
+  (Session info: chrome=115.0.5790.173)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b175403ea52024c4f28944cdf1528a3, findElement {using=tag name, value=h1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.173, chrome: {chromedriverVersion: 115.0.5790.170 (cc0d30c2ca5..., userDataDir: C:\Users\Aswin Prabu\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:62851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62851/devtoo..., se:cdpVersion: 115.0.5790.173, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b175403ea52024c4f28944cdf1528a3
